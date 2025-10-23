@@ -1,2 +1,6 @@
+﻿.ipynb_checkpoints/
 __pycache__/
-env/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
