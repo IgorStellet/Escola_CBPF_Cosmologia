@@ -15,6 +15,7 @@ dependencies:
   - pandas
   - astropy
   - scikit-learn
+  - scikit-image
 
   # ------------------------
   # Compilação e bibliotecas científicas
